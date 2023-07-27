@@ -505,30 +505,33 @@ img.man-icons {
 }
 
 .skills-js {
-  width: 60%;
+  width: 50%;
 }
 
 .skills-react,
 .skills-mongo {
-  width: 80%;
+  width: 50%;
 }
 
-.skills-redux {
+/* .skills-redux {
   width: 90%;
-}
+} */
 
 .skills-mui,
 .skills-sql {
   width: 65%;
 }
 
-.skills-ts {
+.skills-ts,
+.skills-bootstrap {
   width: 70%;
 }
 
 .skills-express,
-.skills-node {
-  width: 85%;
+.skills-node,
+.skills-github,
+.skills-git {
+  width: 50%;
 }
 
 .skills-img {
