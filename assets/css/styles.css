@@ -134,7 +134,7 @@ img {
 /*===== CLASS CSS ===== */
 
 .bg-main {
-  background-image: url('/Week-2/portfolio.sudevvs/assets/img/bg-img2.jpg');
+  /* background: url('/assets/img/bg-img2.jpg'); */
   background-size: cover;
   background-position: right;
   /* opacity:0.9; */
